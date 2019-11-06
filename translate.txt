@@ -1,0 +1,790 @@
+﻿AASHTO Defect Reports,AASHTO Defect Reports,AASHTO تقارير العيوب حسب
+AASHTODefectType,AASHTODefectType,AASHTO نوع العيب حسب
+AASHTODefectTypeID,AASHTODefectTypeID,AASHTO رقم نوع العيب حسب
+AbutNumb,Number of abuttements,عدد المسانِدات
+AbuttmentType,AbuttmentType,نوع المسند
+AbuttmentTypeID,AbuttmentTypeID,رقم نوع المسند
+Accident,Accident,حادث
+AccidentElement,AccidentElement,حادث عنصر
+AccidentElementMaintenanceID ,AccidentElementMaintenanceID ,رقم حادث صيانة العنصر
+AccidentID ,AccidentID ,رقم الحادث
+AccidentIncreaseRate,AccidentIncreaseRate,معدل زيادة الحوادث
+AccidentRate,AccidentRate,قيمة الحادث
+AccidentRateIncrease,AccidentRateIncrease,زيادة قيمة الحادث
+Acronym,Acronym,إختصار
+ActiveIndex,ActiveIndex,المؤشر الفعال
+Activity,Activity,النشاط
+ActivityDescription,Activity Description,تعريف النشاط
+ADT,ADT,
+ADTT,ADTT,
+AffectedElementID,AffectedElementID,رقم العناصر المتضررة
+AffectedLength,AffectedLength,الطول المتأثر
+AffectedSpeed,AffectedSpeed,السرعة المتأثرة
+Agency,Agency,وكالة
+AgencyID,AgencyID,رقم الوكالة
+Agent,Agent,وكيل
+agent_id,agent_id,رقم الوكيل
+AgentID,AgentID,رقم الوكيل
+Applied,Applied,مُنفَّذ
+AppraisalApproachAlignmentID,AppraisalApproachAlignmentID,رقم تقييم إستوائية التقارب 
+AppraisalDeckGeometryID,AppraisalDeckGeometryID,رقم تقييم الشكل الهندسي للبلاطة 
+AppraisalStructureID,AppraisalStructureID,رقم تقييم المنشأ
+AppraisalUnderclearanceID,AppraisalUnderclearanceID,رقم تقييم الفسحة السفلية
+AppraisalWaterwayAdequacyID,AppraisalWaterwayAdequacyID,رقم تقييم كفاءة قناة المياه
+ApproachGuardRailEndsID,ApproachGuardRailEndsID,رقم الدربزين التقاربي النهائي
+ApproachGuardRailID,ApproachGuardRailID,رقم الدربزين التقاربي
+ApproachRoadwayWidth,Approach Roadway Width,عرض الطريق البِدائي
+article,article,مقالة
+artid,artid,رقم المقالة
+AsBuiltDocsAddr,AsBuilt Docs Addr,عنوان الملفات التنفيذية 
+Asset,Asset,أصل
+Asset Inventory Report,Asset Inventory Report,تقرير حصر الأصل
+AssetCAD,AssetCAD,رسوم الأصل
+AssetID,AssetID,رقم الاصل
+AssetManagerID,AssetManagerID,رقم مدير الأصل
+AttributeAsset,AttributeAsset,ميزة الأصل
+AttributeAssetType,AttributeAssetType,نوع ميزة الأصل
+AttributeElement,AttributeElement,ميزة العنصر
+AttributeElementID,AttributeElementID,رقم ميزة العنصر
+AttributeElementType,AttributeElementType,نوع ميزة العنصر
+AttributeElementTypeID,AttributeElementTypeID,رقم نوع ميزة العنصر
+AttributeFeature,AttributeFeature,ميزة الخاصية
+AttributeFeatureType,AttributeFeatureType,نوع ميزة الخاصية
+AttributeGroup,AttributeGroup,ميزة المحموعة
+AttributeGroupType,AttributeGroupType,نوع ميزة المجموعة
+AttributeItemID,AttributeItemID,رقم بند الميزة
+AttributeItemTypeID,AttributeItemTypeID,رقم نوع بند الميزة
+AttributeStructure,AttributeStructure,ميزة المنشأة
+AttributeStructureType,AttributeStructureType,نوع ميزة المنشأة
+AttributeStructureUnit,AttributeStructureUnit,ميزة وحدة المنشأة
+AttributeStructureUnitType,AttributeStructureUnitType,نوع ميزة وحدة المنشأة
+AverageAccidentCost,AverageAccidentCost,متوسط تكلفة الحادث
+AverageTruckCost,AverageTruckCost,متوسط تكلفة الشاحنة
+AverageVehicleCost,AverageVehicleCost,متوسط تكلفة المركبة
+BarrierType,BarrierType,نوع الحاجز
+BarrierTypeID,BarrierTypeID,رقم نوع الحاجز
+BaseHighwayNetwork,BaseHighwayNetwork,
+BaseHighwayNetworkID,BaseHighwayNetworkID,رقم شبكة الطريق الأساسية
+BearingType,BearingType,نوع الركيزة
+BearingTypeID,BearingTypeID,رقم نوع الركائز
+Behavior,Behavior,السلوك
+Bill Of Quantities,Bill Of Quantities,جدول الكميات
+Bill Of Quantities of applied Maintenance,Bill Of Quantities of applied Maintenance,جدول كميات الصيانة
+BirthCountry,Birth Country,بلد الميلاد
+BirthDate,Birth Date,تاريخ الميلاد
+BorderBridgeResponsibility,BorderBridgeResponsibility,مسؤولية جسر الحدود
+BorderBridgeStateID,BorderBridgeStateID,رقم جسر حدود الولاية
+BorderBridgeStructureID,BorderBridgeStructureID,رقم منشأ جسر الحدود
+Bridge Inspection Summary Report,Bridge Inspection Summary Report,موجز تقرير كشف الجسر
+Budget,Budget,الميزانية
+Bypass,Bypass,طريق جانبيّ
+CenterX,CenterX,Xالمركز
+CenterY,CenterY,Yالمركز
+CenterZ,CenterZ,Zالمركز
+cft_table,cft_table,
+Channel,Channel,قناة
+Characteristics,Characteristics,الخصائص
+CheckDate,Check Date,تاريخ التحقق
+CheckedOut,CheckedOut, مغادرة
+CheckInCheckOut,CheckInCheckOut,دخول/خروج
+CheckInCheckOutID,CheckInCheckOutID,رمز الدخول/رمز الخروج  
+City,City,المدينة
+CityID,CityID,رقم المدينة
+ClearanceLevel,Clearance Level,مستوى التصريح
+Code,Code,شفرة
+ColumnNames,ColumnNames,أسماء العمود
+ColumnNumber,ColumnNumber,رقم العمود
+Comment,Comment,ملاحظات
+Commentary,Commentary,تعليق
+Comments,Comments,تعليقات
+Component,Component,مكون
+ComponentGroupRating,ComponentGroupRating,تصنيف مجموعة المكونات
+ComponentID,ComponentID,رقم المكون
+ComponentRatingCode,ComponentRatingCode,رمز تصنيف المكون
+ComponentRatingCodeID,ComponentRatingCodeID,رقم رمز تصنيف المكون
+ComponentsRating,ComponentsRating,تصنيف المكونات
+ComponentsRatingID,ComponentsRatingID,رقم تصنيف المكونات
+ComponentType,ComponentType,نوع المكونات
+Consequence,Consequence,التبعة
+ConsequenceID,ConsequenceID,رقم التبِعة
+ConsequenceRate,ConsequenceRate,نسبة التبعة
+ConsequenceType,ConsequenceType,نوع التبعة
+ConsequenceTypeID,ConsequenceTypeID,رقم نوع التأثير
+ContactEmail,ContactEmail,البريد الالكتروني للتواصل
+ContactFax,ContactFax,فاكس التواصل
+ContactMobile,ContactMobile,هاتف جوال التواصل
+ContactName,ContactName,إسم التواصل
+ContactPhone,ContactPhone,رقم التواصل
+Cost,Cost,تكلفة
+Costing,Costing,تسعير
+Country,Country,البلد
+CountryID,CountryID,رقم الدولة
+CreationDate,Creation Date,تاريخ الإنشاء
+CriticalFinding,Critical Finding,النتائج الحرجة
+CS1,CS1,
+CS2,CS2,
+CS3,CS3,
+CS4,CS4,
+Culvert,Culvert,عبارة
+CulvertConcrete,Culvert Concrete,عبارة خرسانية
+CulvertMasonry,Culvert Masonry,عبارة حجرية
+CulvertSteel,Culvert Steel,عبارة معدنية
+CulvertTimber,Culvert Timber,عبارة خشبية
+CurbstoneType,CurbstoneType,نوع حجر الرصيف
+CurbstoneTypeID,CurbstoneTypeID,رقم نوع حجر الرصيف 
+CurbWidthA,CurbWidthA,عرض الرصيف أ
+CurbWidthB,CurbWidthB,عرض الرصيف ب
+Currency,Currency,العملة
+Curvature,Curvature,الانعطاف
+DamageCost,DamageCost,تكلفة الضرر
+DamageLevel,Damage Level,مستوى الأضرار
+DataTable11ID,DataTable11ID,رقم جدول المعلومات 11
+Date,Date,تاريخ
+DateAdded,Date added,تاريخ الإضافة
+DateBegin,Date Begin,تاريخ البدء
+DateEncroachment,Encroachment date,تاريخ الوضع
+DateEnd,Date End,تاريخ الانتهاء
+DateRemoved,Date removed,تاريخ الإزالة
+DateTime,DateTime,وقت البيانات
+Deck,Deck,بلاطة
+DeckArea,Deck Area,مساحة البلاطة
+DeckConcrete,Deck Concrete,بلاطة خرسانة
+DeckProtectionType,DeckProtectionType,نوع حماية البلاطة
+DeckProtectionTypeID,DeckProtectionTypeID,رقم نوع حماية البلاطة
+DeckRatingCodeID,DeckRatingCodeID,رقم تصنيف البلاطة
+DeckSlope,Deck Slope,ميلان البلاطة
+DeckSteel,Deck Steel,بلاطة معدنية
+DeckTimber,Deck Timber,بلاطة خشبية
+DeckType,DeckType,نوع البلاطة
+DeckTypeID,DeckTypeID,رقم نوع البلاطة
+DeckWidthExt,Exterior Deck Width,عرض البلاطة الخارجيّ
+DefaultIndex,DefaultIndex,المؤشر الإفتراضي 
+Defect,Defect,العيب
+DefectCAD,DefectCAD,رسوم العيب
+DefectCADID,DefectCADID,رقم لوحة العيب
+DefectCode,DefectCode,رمز العيب
+DefectID,DefectID,رقم العيب
+DefectThreshold1,DefectThreshold1,حد العيب 1
+DefectThreshold2,DefectThreshold2,حد العيب 2					
+DefectThreshold3,DefectThreshold3,حد العيب 3						
+definition,Definition,تعريف
+DegradationCost,DegradationCost,تكلفة التدهور
+Departement,Departement,قسم
+DepartementID,DepartementID,رقم القسم
+Depth,Depth,العمق
+description,Description,وصف
+Description,Description, وصف
+DesignDocsAddr,Design Docs Addr,عنوان ملفات التصميم
+DesignLoad,Design Load,الحِمل التصميميّ
+DesignLoadID,DesignLoadID,رقم حمل التصميم
+dest_table,dest_table,
+DetourLength,DetourLength,طول التحويلة
+DetourSpeed,DetourSpeed,سرعة التحويلة
+diagram_id,diagram_id,رقم المنحنى البياني
+Digits,Digits,أرقام
+DirectionalSuffix,DirectionalSuffix,اتّجاة اللاحق
+DirectionalSuffixID,DirectionalSuffixID,رقم الإتجاه اللاحق
+DirectorEmail,DirectorEmail,البريد الالكتروني للمدير
+DirectorFax,DirectorFax,فاكس المدير
+DirectorMobile,DirectorMobile,هاتف جوال المدير
+DirectorName,DirectorName,إسم المدير
+DirectorPhone,DirectorPhone,هاتف المدير
+DirectorPosition,DirectorPosition,موقع المدير
+DiscountRate,DiscountRate,نسبة الخصم
+Distress,Distress,تلف
+DistressChannel,Channel Distress,تلف القناة
+DistressCulvert,Culvert Distress,تلف العبارة
+DistressDeck,Deck Distress,تلف البلاطة
+DistressSubStructure,SubStructure Distress,تلف الجزء السفلي
+DistressSuperStructures,SuperStructure Distress,تلف الجزء العلوي
+distribution_agent,distribution_agent,وكيل موزع
+District,District,حي
+DistrictID,DistrictID,رقم الحي
+Docs,Documents,ملفات
+DocumentDefect,DocumentDefect,مستند العيب
+DocumentInspectionResult,DocumentInspectionResult,مستند نتيجة الكشف
+DoRepair,DoRepair,القيام بإصلاح
+DrainageType,DrainageType,نوع التصريف
+DrainageTypeID,DrainageTypeID,رقم نوع التصريف
+Element,Element,عنصر
+Element Costing,Element Costing,تسعير
+Element Inventory Report,Element Inventory Report,تقرير حصر العنصر
+Element Type Costing,Element Type Costing,تسعير نوع العنصر
+ElementCAD,ElementCAD,رسوم العنصر
+ElementCategory,ElementCategory,فئة العنصر
+ElementComponentRating,ElementComponentRating,تصنيف العنصر المكون
+ElementCosting,ElementCosting,تسعير العنصر
+ElementDefinitionType,ElementDefinitionType,نوع تعريف العنصر
+ElementDefinitionTypeID,ElementDefinitionTypeID,رقم تعريف نوع العنصر
+ElementFollowUp,ElementFollowUp,متابعة العنصر
+ElementFollowUpID,ElementFollowUpID,رقم متابعة العنصر
+ElementGroupRating,ElementGroupRating,تصنيف مجموعة العناصر
+ElementID,ElementID,رقم العنصر
+ElementRating,ElementRating,تصنيف العنصر
+ElementStructureUnitRating,ElementStructureUnitRating,تصنيف عنصر وحدة المنشأة
+ElementType,ElementType,نوع العنصر
+ElementTypeCosting,ElementTypeCosting,تسعير نوع العنصر
+ElementTypeCostingID,ElementTypeCostingID,رقم تكلفة نوع العنصر
+ElementTypeID رقم نوع العنصر,ElementTypeID ,رقم نوع العنصر
+ElementTypeManufacturingCost,ElementTypeManufacturingCost,تكلفة تصنيع نوع العنصر
+ElementTypeManufacturingCostID,ElementTypeManufacturingCostID,رقم تكلفة تصنيع نوع العنصر
+ElementTypeManufacturingNeed,ElementTypeManufacturingNeed,حاجة تصنيع نوع العنصر
+ElementTypeManufacturingNeedID,ElementTypeManufacturingNeedID,رقم حاجة تصنيع نوع العنصر
+ElementTypeRating,ElementTypeRating,تصنيف نوع العنصر
+ElementTypeRatingID,ElementTypeRatingID,رقم تصنيف نوع العنصر
+Email,Email,بريد إلكتروني
+EmploymentDate,Employment Date,تاريخ التوظيف
+EmpNumb,Employees Number,رقم الموظف
+Environment,Environment,البيئة
+EnvironmentID,EnvironmentID,رقم البيئة
+ExpansionJoinType,ExpansionJoinType,نوع فواصل التمدد
+ExpansionJoinTypeID,ExpansionJoinTypeID,رقم نوع فواصل التمدد
+ExpertsTransitionMatrix,ExpertsTransitionMatrix,خبراء مصفوفة الأنتقال
+ExpertsTransitionMatrixID,ExpertsTransitionMatrixID,رقم خبراء مصفوفة الأنتقال
+FA1,FA1,
+FA2,FA2,
+FA3,FA3,
+FA4,FA4,
+FADT,FADT,
+FailureCost,FailureCost,تكلفة الفشل
+FatalityCost,FatalityCost,تكلفة الوفيات 
+FatalityProbaility,FatalityProbaility,إحتمالية الموت
+FatigueProne,Fatigue Prone,عرضة للتعب
+Fax,Fax,فاكس
+Feature,Feature,خاصية
+FeatureCAD,FeatureCAD,رسوم الخاصية
+FeatureID,FeatureID,رقم الخاصية 
+FederalLandHighway,FederalLandHighway,الطرق الأرضية الإتحادية
+FederalLandHighwayID,FederalLandHighwayID,رقم الطرق الأرضية الإتحادية
+FileAddr,File Adress,عنوان الملف
+FIleAddr,File Adress,عنوان الملف
+Flared,Flared,
+FlaredID,FlaredID,
+FName,First Name, الإسم الأول
+Form,Form,شكل
+Format,Format,شكل
+FractureCriticalالكسر الحرج,FractureCritical,الكسر الحرج
+FunctionalClassification,FunctionalClassification,تصنيف المهام
+FunctionalClassificationID,FunctionalClassificationID,رقم تصنيف المهام
+Gender,Gender,الجنس
+Group,Group,مجموعة
+GroupCAD,GroupCAD,رسوم المجموعة
+GroupID,GroupID,رقم المجموعة
+GroupRating,GroupRating,تصنيف المجموعة
+GUID,GUID,دليل
+HealthIndex,Health Index,مؤشر الصحة
+HealthIndexChannel,Channel Health Index,مؤشر صحة القناة
+HealthIndexCulvert,Culvert Health Index,مؤشر صحة العبارة
+HealthIndexDeck,Deck Health Index,مؤشر صحة البلاطة
+HealthIndexSubStructure,SubStructureHealth Index,مؤشر صحة الجزء السفلي
+HealthIndexSuperStructure,SuperStructure Health Index,مؤشر صحة الجزء العلوي
+HealthIndexThreshold,						
+HighwaySystem,HighwaySystem,نظام الطرق السريعة
+HighwaySystemID,HighwaySystemID,رقم نظام الطرق السريعة
+HistroricalSignificance,HistroricalSignificance,الاهمية التاريخية
+HistroricalSignificanceID,HistroricalSignificanceID,رقم الاهمية التاريخية
+id,id,رقم / هوية
+Id,Id,  رقم التعريف رمز التعريف
+immediate_sync,immediate_sync,الإقتران الفوري
+Importance,Importance,الأهمية
+improveRate,improveRate,درجة التحسين
+IncludePonderation,Include Ponderation,
+independent_agent,independent_agent,وكيل مستقل
+InducedBy,InducedBy,الناجمة عن
+Influence,Influence,تأثير
+InfluenceID,InfluenceID,رقم التاثير
+InfluenceRate,InfluenceRate,درجة الفاعلية
+InitialValue,Initial Value,القيمة الأصلية
+InjuryCost,InjuryCost,تكلفة الإصابات
+InjuryProbability,InjuryProbability,إحتمالية الإصابة
+Inspection,Inspection,كشف
+Inspection Detailed Summary Report,Inspection Detailed Summary Report,تقرير موجز عن الكشف المفصّل
+Inspection Summary Report,Inspection Summary Report,تقرير موجز عن الكشف 
+InspectionCompaign,InspectionCompaign,حملة الكشف
+InspectionCompaignID,InspectionCompaignID,رقم حملة الكشف
+InspectionDocsAddr,Inspection Docs Addr,عنوان ملفات الكشف
+InspectionFreq,Inspection Frequency,تواتر الكشف
+InspectionFrequency,Inspection Frequency,تواتر الكشف
+InspectionHorizon,InspectionHorizon,أفق التفتيش
+InspectionID,InspectionID,رقم الكشف
+InspectionRecommendation,InspectionRecommendation,توصية الكشف
+InspectionRecommendationID,InspectionRecommendationID,رقم توصيات الكشف   
+InspectionResult,InspectionResult,نتيجة الكشف
+InspectionResultCAD,InspectionResultCAD,رسوم نتيجة الكشف
+InspectionResultCADID,InspectionResultCADID,رقم لوحة نتائج الكشف
+InspectionResultForcasting,InspectionResultForcasting,توقع نتيجة الكشف
+InspectionResultID,InspectionResultID,رقم نتيجة الكشف
+InspectionTeam,InspectionTeam,فريق الكشف
+InspectionTeamID,InspectionTeamID,رقم فريق الكشف
+InspectionTechnology,InspectionTechnology,تكنولوجيا الكشف
+InspectionTechnologyID,InspectionTechnologyID,رقم تكنولوجيا الكشف
+InspectionTool,InspectionTool,أداة الكشف
+InspectionToolActivity,Inspection Tool Activity, نشاط ادوات الكشف
+InspectionToolID,InspectionToolID,رقم ادوات الكشف
+InspectionToolRequirements,Inspection Tool Requirements,مستلزمات الكشف
+InspectionToolType,InspectionToolType,نوع أداة الكشف
+InspectionToolTypeID,InspectionToolTypeID,رقم نوع معدات الكشف
+InspectionType,InspectionType,نوع الكشف
+InspectionTypeID رقم نوع الكشف,InspectionTypeID ,رقم نوع الكشف
+Inspector,Inspector,الفاحِص
+InspectorID,InspectorID,رقم الفاحص
+Insurance,Insurance,تامين
+InterestRate,InterestRate,سعر الفائدة
+Inventory,Inventory,الحصر
+InventoryRating,InventoryRating,تصنيف الحصر
+InventoryRatingID,InventoryRatingID,رقم تصنيف الحصر
+InventoryRatingMethod,InventoryRatingMethod,طريقة تصنيف الحصر
+InventoryRatingMethodID,InventoryRatingMethodID,رقم طريقة حصر التصنيف
+InventoryRoute,Inventory Route ,حصر المسار
+Item36,Item36,بند 36
+Item36ID,Item36ID,رقم البند 36
+Item70,Item70,بند 70
+Item75A,Item75A,بند 75 أ
+Item75B,Item75B,بيند 75 ب
+ItemGUID,ItemGUID,دليل البند
+Items,Items,بنود
+ItemSegments,ItemSegments,
+KilometerPoint,Kilometer Point,نقطة الكيلوميتر
+LaborQuantity,LaborQuantity,كمية العمال
+LaborType,LaborType,نوع العمل
+LaborTypeCost,LaborTypeCost,كلفة نوع العمل
+LaborTypeCostID,LaborTypeCostID,رقم تكلفة نوع العامل
+LaborTypeID,LaborTypeID,رقم نوع العامل
+LanesNumbA,Number of lanes A,عدد الممرات أ
+LanesNumbB,Number of lanes B,عدد الممرات ب
+Latitude,Latitude,خط العرض
+Length,Length,الطول
+LevelOfService,LevelOfService,مستوى الخدمة
+LevelOfServiceID,LevelOfServiceID,رقم مستوى الخدمة
+LightingType,LightingType,نوع الإضاءة
+LightingTypeID,LightingTypeID,رقم نوع الإضاءة
+LName,Last Name, الإسم الأخير
+LoadMax,Maximum Load,الحِمل الأقصى
+LoadMaxPost,Maximum Load Posting,تحديد الحِمل الأقصى
+Location,Location,الموقع
+Longitude,Longitude,خط الطول
+LRS,LRS,
+Maintenance,Maintenance,الصيانة
+MaintenanceAgency,Maintenance Agency,وكالة الصيانة
+MaintenanceCompaign,MaintenanceCompaign,حملة الصيانة
+MaintenanceElement,MaintenanceElement,صيانة العنصر
+MaintenanceID,MaintenanceID,رقم الصيانة
+MaintenanceLifeTime,MaintenanceLifeTime,عمر الصيانة
+MaintenanceRecommendation,MaintenanceRecommendation,توصية الصيانة
+MaintenanceType,MaintenanceType,نوع الصيانة
+MaintenanceTypeCost,MaintenanceTypeCost,تكلفة نوع الصيانة
+MaintenanceTypeCostID,MaintenanceTypeCostID,رقم تكلفة نوع الصيانة
+MaintenanceTypeID,MaintenanceTypeID,رقم نوع الصيانة
+MaintenanceTypeNeed,MaintenanceTypeNeed,حاجة نوع الصيانة
+MaintenanceTypeNeedID,MaintenanceTypeNeedID,رقم حاجة نوع الصيانة
+MaritalStatus,Marital Status,الحالة الإجتماعية
+MaterialQuantity,MaterialQuantity,كمية المواد
+MaterialType,MaterialType,نوع المادة
+MaterialTypeCost,MaterialTypeCost,تكلفة نوع المادة
+MaterialTypeCostID,MaterialTypeCostID,رقم تكلفة نوع المواد
+MaterialTypeID,MaterialTypeID,رقم نوع المواد
+MaxSpanLength,Maximum span length,طول المجاز الأقصى
+MechanicalType,MechanicalType,النوع الميكانيكي
+MechanicalTypeID,MechanicalTypeID,رقم النوع الميكانيكي
+Median,Median,المتوسط
+MedianID,MedianID,رقم المتوسط
+MembraneType,MembraneType,نوع الغشاء
+MembraneTypeID,MembraneTypeID,رقم نوع الغشاء
+MinHorClearAbove,Minimum Horizontal Clearance Above, الفسحة الأفقية الدنيا من الأعلى
+MinHorClearBelow,Minimum Horizontal Clearance Below,الفسحة الأفقية الدنيا من الأسفل
+MinLateralUnderClearOnLeft,Minimum Lateral Under Clearance On Left,الفسحة الجانبية الدنيا من تحت من الجهة اليسرى
+MinLateralUnderClearOnRight,Minimum Lateral Under Clearance On Right,الفسحة الجانبية الدنيا من تحت من الجهة اليُمنى
+MinLateralUnderClearOnRightID,MinLateralUnderClearOnRightID,رقم الفسحة الجانبية الدنيا من تحت من الجهة اليُمنى
+MinNavigationVertClear,Minimunm Navigation Vertical Clearance,فسحة الملاحة العمودية الدنيا
+MinVertClear,Minimum vertical clearance,الفسحة العموديّة الدنيا
+MinVertClearOver,Minimum Vertical Clearance Over,الفسحة العمودية الدنيا من فوق
+MinVertClearUnder,Minimum Vertical Clearance Under,الفسحة العمودية الدنيا من تحت
+MinVertClearUnderID,MinVertClearUnderID,رقم الفسحة العمودية الدنيا من تحت
+MName,Middle Name, الإسم الأوسط
+MonitoringSystemType,MonitoringSystemType,نوع نظام المراقبة
+MonitoringSystemTypeID,MonitoringSystemTypeID,رقم نوع نظام المراقبة
+MSrepl_queuedtraninfo,MSrepl_queuedtraninfo,
+MSreplication_objects,MSreplication_objects,
+MSreplication_queue,MSreplication_queue,
+MSreplication_subscriptions,MSreplication_subscriptions,
+MSsubscription_agents,MSsubscription_agents,
+MSsubscription_articlecolumns,MSsubscription_articlecolumns,
+MSsubscription_articles,MSsubscription_articles,
+MSsubscription_properties,MSsubscription_properties,
+MultimediaAsset,MultimediaAsset,الأصول متعددة المهام
+MultimediaAssetID,MultimediaAssetID,رقم الأصول متعددة المهام
+MultimediaComponent,MultimediaComponent,مكونات متعددة المهام
+MultimediaComponentID,MultimediaComponentID,رقم مكونات متعددة المهام
+MultimediaDefect,MultimediaDefect,العيب متعدد المهام
+MultimediaDefectID,MultimediaDefectID,رقم العيب متعدد المهام
+MultimediaElement,MultimediaElement,عناصر متعددة المهام
+MultimediaElementID,MultimediaElementID,رقم عناصر متعددة المهام
+MultimediaFeature,MultimediaFeature,خصائص متعددة المهام
+MultimediaFeatureID,MultimediaFeatureID,رقم خصائص متعددة المهام
+MultimediaGroup,MultimediaGroup, مجموعة متعددة المهام
+MultimediaGroupID,MultimediaGroupID, رقم مجموعة متعددة المهام
+MultimediaInspectionResult,MultimediaInspectionResult,نتيجة الكشف متعدد المهام
+MultimediaInspectionResultID,MultimediaInspectionResultID,رقم نتيجة الكشف متعدد المهام
+MultimediaStructure,MultimediaStructure,المنشأ متعدد المهام
+MultimediaStructureID,MultimediaStructureID,رقم المنشأ متعدد المهام
+MultimediaStructureUnit,MultimediaStructureUnit, وحدة المنشأ متعددة المهام
+MultimediaStructureUnitID,MultimediaStructureUnitID, رقم وحدة المنشأ متعددة المهام
+MyImage1,MyImage1,صورتي 1
+MyImage2,MyImage2,صورتي 2
+name,Name,اسم
+Name,Name,اسم
+Nationality,Nationality,الجنسية
+NavigationControl,NavigationControl,التحكم بالملاحة
+NavigationControlID,NavigationControlID,رقم التحكم بالملاحة
+NavigationHorClear,Navigation Horizontal Clearance,فسحة الملاحة الأفقية
+NavigationVertClear,Navigation Vertical Clearance,فسحة الملاحة العمودية
+NBI,NBI,تصنيف ن.ب.ي
+NBI Code Sheets,NBI Code Sheets,
+NBIPostingCode,NBIPostingCode,NBIإرسال رمز 
+NBIPostingCodeID,NBIPostingCodeID,NBIرقم إرسال رمز 
+NBIRating,NBI Rating,تصنيف ن.ب.ي
+NBISLength,NBISLength,الطول NBIS
+NBISLengthID,NBISLengthID,رقم الطول NBIS
+NSegments,NSegments,
+Number,Number,عدد
+NumberOfVehiculesPost,Number Of Vehicules Posting,تحديد عدد الآليات
+ObjectID,ObjectID,رقم الموضوع
+ObjectName,Object Name,إسم الموضوع
+OfficialStatus,Official Status,الحالة الرسمية
+OperatingRating,OperatingRating,تشغيل التصنيف
+OperatingRatingID,OperatingRatingID,رقم تشغيل التصنيف
+OperatingRatingMethod,OperatingRatingMethod,طريقة تشغيل التصنيف
+OperatingRatingMethodID,OperatingRatingMethodID,رقم طريقة تشغيل التصنيف
+OperatingTruckCost,OperatingTruckCost,تكلفة تشغيل الشاحنة
+OperatingVehicleCost,OperatingVehicleCost,تكلفة تشغيل المركبة
+Overhead,Overhead,نفقات عامّة
+OverHead,OverHead,الرسوم الإدارية
+Owner,Owner,مالك
+OwnerID,OwnerID,رقم المالك
+ParallelStructure,ParallelStructure,المنشأة الموازية
+ParallelStructureID,ParallelStructureID,رقم المنشأة الموازية
+ParapetHeight,Parapet Height,ارتفاع الحاجِز
+Parent,Parent,الأصل
+PasswordAddress,Password Address,عنوان كلمة المرور
+Permit,Permit,التصريح
+PermitID,PermitID,رقم التصريح
+Phone,Phone,هاتف
+Phone1,Phone1,هاتف 1
+Phone2,Phone2, هاتف 2
+Phone3,Phone3,هاتف 3
+Photo,Photo,صورة
+PierAbutProt,PierAbutProt,
+PierAbutProtID,PierAbutProtID,
+PiersNumb,Number of piers,عدد الأعمدة
+PierType,PierType,نوع العمود
+PierTypeID,PierTypeID,رقم نوع العمود
+PlanningHorizon,PlanningHorizon,أفق التخطيط
+POB,POB,صندوق البريد
+PonderationCoefficient,Ponderation Coefficient,
+Position,Position,الموقع 
+Posting,Posting,التسجيل
+PostingID,PostingID,رقم التسجيل
+Price,Price,السعر
+principal_id,principal_id,الرقم الأساسي
+Priorization,Priorization,تحديد الأولويات
+PriorizationID,PriorizationID, رقم تحديد الأولويات
+ProtectingID,ProtectingID,رقم الحماية
+publication,publication,منشور
+publisher,publisher,الناشر
+publisher_db,publisher_db,
+Qualification,Qualification,المؤهل
+Qualifications,Qualifications,المؤهلات 
+QualificationType,QualificationType,نوع المؤهل
+Quantity,Quantity,كمية
+RailingsID,RailingsID,رقم الحواجز
+RailType,RailType,نوع الحاجر
+RailTypeID,RailTypeID,رقم نوع الحاجز
+Rank,Rank,رتبة
+Rating,Rating,تصنيف
+RatingChannelID,RatingChannelID,رقم تصنيف القناة 
+RatingCulvertID,RatingCulvertID,رقم تصنيف العبارة
+RatingDeckID,RatingDeckID,رقم تصنيف البلاطة
+Ratings Report,Ratings Report,تقري التصنيفات
+RatingSubStructureID,RatingSubStructureID,رقم تصنيف الجزء السفلي
+RatingSuperStructureID,RatingSuperStructureID,رقم تصنيف الجزء العلوي
+Recommendation,Recommendation, التوصيات
+Reference,Reference,مرجع
+RegInternational,International Registration,التسجيل الدولي
+Region,Region,المنطقة
+RegionID,RegionID,رقم المنطقة
+RegNational,National Registration,التسجيل الوطني
+RelativePosition,Relative Position,الوضع النسبيّ
+RemarkAttributes,Remarks Attributes,ملاحظات السمات
+Remarks,Remarks,ملاحظات
+RepairCost,RepairCost,تكلفة الإصلاح
+ReportFlag,Report Flag,إشارة التقرير
+Requirements,Requirements,إحتياجات
+Responsible,Responsible,مسؤول
+Roadway,Roadway,الطريق
+RoadwayID,RoadwayID,رقم الطريق
+RoadwayWidth,Roadway Width,عرض الطريق
+Rule,Rule,القاعدة
+RuleSet,RuleSet,مجموع القواعد
+SchemaName,Schema Name,إسم المخطط
+ScourCritical,ScourCritical,
+ScourCriticalID,ScourCriticalID,
+SetupDuration,SetupDuration,مدة الإعداد
+SetupPrice,SetupPrice,سعر الإعداد
+SetupValue,SetupValue,قيم الإعداد
+SF356,SF356,
+SF357,SF357,
+SF358,SF358,
+SF359,SF359,
+SF360,SF360,
+SF361,SF361,
+SF362,SF362,
+SF363,SF363,
+SF364,SF364,
+SF366,SF366,
+SF367,SF367,
+SF368,SF368,
+ShortDescription,Short Description,وصف موجز
+Sigle,Sigle,المختصرات
+Signing,Signing,إشارات السير
+SigningDecription,Signing Decription,وصف إشارات السير
+SigningPrefix,SigningPrefix,
+SigningPrefixID,SigningPrefixID,رقم الدخول المحدد
+SignType,SignType,نوع الإشارة
+SignTypeID,SignTypeID,رقم نوع الإشارة
+Size_Quantity ,Size_Quantity ,حجم الكمية
+SizeY,SizeY,Yالحجم 
+Skew,Skew,الانحراف
+SkillLevel,Skill Level,مستوى المهارة
+SmartFlag,SmartFlag,
+SmartFlagID,SmartFlagID,رقم الإشارة الذكية
+SpansAppNumb,Number of approach spans,عدد المجازات البدائيّة
+SpansNumb,Number of spans,عدد المجازات
+Speciality,Speciality,التخصصية
+SpecificationsDocsAddr,Specifications Docs Addr,عنوان ملفات المواصفات
+SpeddMaxPost,Maximum Speed Posting,تحديد السرعة القصوى
+State,State,ولاية
+State1,State1,الحالة 1
+State2,State2,الحالة 2
+State3,State3,الحالة 3
+State4,State4,الحالة 4
+StateID,StateID,رقم الولاية
+Status,Status,الحالة
+STRAHNET,STRAHNET,
+STRAHNETID,STRAHNETID,
+Street,Street,شارع
+Structure,Structure,منشأة
+Structure Costing,Structure Costing,تسعير المنشأة
+Structure Inventory Report,Structure Inventory Report,تقرير حصر المنشأة
+Structure Inventory Summary Report,Structure Inventory Summary Report,تقرير موجز عن حصر المنشأة
+Structure Unit Costing,Structure Unit Costing,تسعير وحدة المنشأة
+Structure Unit Inventory Report,Structure Unit Inventory Report,تقرير حصر وحدة المنشأة
+Structure3DS,Structure3DS,صورة المنشأة ثلاثيّة الأبعاد
+StructureCAD,StructureCAD,رسوم المنشأة
+StructureCADID,StructureCADID,رقم مخطط المنشأة
+StructureCategory,StructureCategory,فئة المنشأة
+StructureCosting,StructureCosting,تسعير المنشأة
+StructureCostingID,StructureCostingID,رقم تكلفة المنشأة
+StructureID,StructureID,رقم المنشأة
+StructureManager,StructureManager,مدير المنشأة
+StructureManagerID,StructureManagerID,رقم مدير المنشأة
+StructureType,StructureType,نوع المنشأة
+StructureTypeDesignApproachSpanlID,StructureTypeDesignApproachSpanlID,رقم نوع تصميم المنشأة / المسار التقاربي
+StructureTypeID,StructureTypeID,رقم نوع المنشأة
+StructureTypeMaterial,StructureTypeMaterial,نوع مادة المنشأة
+StructureTypeMaterialApproachSpanlID,StructureTypeMaterialApproachSpanlID,رقم نوع مواد المنشأة/ المسار التقاربي 
+StructureTypeMaterialID,StructureTypeMaterialID,رقم نوع مواد المنشأة
+StructureUnit,StructureUnit,وحدة المنشأة
+StructureUnitCAD,StructureUnitCAD,رسوم وحدة المنشأة
+StructureUnitCosting,StructureUnitCosting,تسعير وحدة المنشأة
+StructureUnitCostingID,StructureUnitCostingID,رقم تكلفة وحدة المنشأة
+StructureUnitID,StructureUnitID, رقم وحدة المنشأ
+StructureUnitRating,StructureUnitRating,تصنيف وحدة المنشأة
+StructureUnitRatingID,StructureUnitRatingID,رقم تصنيف وحدة المنشأة
+subid,subid,رقم الإشتراك
+SubrouteNumber,Subroute Number,رقم المسار الفرعي
+subscription_guid,subscription_guid,دليل الإشتراك
+subscription_type,subscription_type,نوع الإشتراك
+SubStructure,SubStructure,الجزء السفلي
+SubStructureConcrete,SubStructure Concrete,جزء سفلي خرساني
+SubStructureMasonry,SubStructure Masonry,جزء سفلي حجري
+SubStructureRatingCodeID,SubStructureRatingCodeID,رقم تصنيف الجزء السفلي
+SubStructureSteel,SubStructure Steel,جزء سفلي معدني
+SubStructureTimber,SubStructure Timber,جزء سفلي خشبي
+SufficiencyIndex,Sufficiency Index,مؤشر الكفاية
+SufficiencyIndexThreshold,						
+SuperStructure,SuperStructure,الجزء العلوي
+SuperStructureConcrete,SuperStructure Concrete,خرسانة الجزء العلوي
+SuperStructureMasonry,SuperStructure Masonry,جزء علوي حجري
+SuperStructureRatingCodeID,SuperStructureRatingCodeID,رقم تصنيف الجزء العلوي 
+SuperStructureSteel,SuperStructure Steel, جزء علوي معدني
+SuperStructureTimber,SuperStructure Timber,جزء علوي خشبي
+sysdiagrams,sysdiagrams,
+T11,T11,
+T12,T12,
+T13,T13,
+T14,T14,
+T21,T21,
+T22,T22,
+T23,T23,
+T24,T24,
+T31,T31,
+T32,T32,
+T33,T33,
+T34,T34,
+T41,T41,
+T42,T42,
+T43,T43,
+T44,T44,
+TableName,Table Name,إسم الجدول
+TableRef,TableRef,الرقم المرجعي للجدول
+Temporary,Temporary,مؤقت
+TemporaryID,TemporaryID,الرقم المؤقت
+time,Time,الوقت
+TimePerUnitSize,Time Per Unit Size,حجم الوقت للوحدة 
+TimeValueCategory1,TimeValueCategory1,فئة قيمة الوقت 1
+TimeValueCategory2,TimeValueCategory2,فئة قيمة الوقت 2
+TimeValueCategory3,TimeValueCategory3,فئة قيمة الوقت 3
+Title,Title,عنوان
+Toll,Toll,وجود رسم عبور
+TollAmount,Toll Amount,رسم العبور
+TollID,TollID,رقم الرسم
+TotalHorClear,Total horizontal clearance,الفسحة الأفقيّة الدنيا 
+TotalQuantity,Total Quantity,الكمية الإجمالية
+TrafficDirection,TrafficDirection,اتجاه المرور
+TrafficDirectionID,TrafficDirectionID,رقم اتجاه المرور
+TrafficSignalType,TrafficSignalType,نوع إشارة المرور
+TrafficSignalTypeID,TrafficSignalTypeID,رقم نوع إشارة المرور
+transaction_timestamp,transaction_timestamp,الطابع الزمني للعملية
+TransitionMatrix,TransitionMatrix,مصفوفة الانتقال
+TransitionMatrixID,TransitionMatrixID,رقم مصفوفة الإنتقال
+TransitionsID,TransitionsID,رقم التحولات
+TruckRate,TruckRate,قيمة الشاحنة
+TrucksNationalNet,TrucksNationalNet,شبكة الشاحنات الوطنية
+TrucksNationalNetID,TrucksNationalNetID,رقم شبكة الشاحنات الوطنية
+TypeDictionary,TypeDictionary,نوع القاموس
+TypeDictionaryID,TypeDictionaryID,رقم نوع القاموس  
+TypeOfServiceOn,TypeOfServiceOn,نوع الخدمة على
+TypeOfServiceOnID,TypeOfServiceOnID,رقم نوع الخدمة على
+TypeOfServiceUnder,TypeOfServiceUnder,نوع الخدمة تحت
+TypeOfServiceUnderID,TypeOfServiceUnderID,رقم نوع الخدمة تحت
+Unit,Unit,وحدة
+UnitDuration,UnitDuration,مدة الوحدة
+UnitInitialValue,Unit Initial Value,القيمة الأصلية للوحدة
+Units,Units,وحدات
+UnitSetupValue,Unit Setup Value,قيمة إعداد الوحدة
+update_mode,update_mode,وضع التحديث
+UpdatingDate,UpdatingDate,تاريخ التحديث
+UserCost,UserCost,تكلفة المستخدم
+UserCostID,UserCostID,رقم تكلفة المستخدم
+UserCosting,UserCosting,تكلفة المستخدم
+Utility,Utility,الخدمة
+UtilityID,UtilityID,رقم الخدمة 
+Value,Value,قيمة
+ValueLoss,ValueLoss,فقدان القيمة
+version,version,نسخة
+Vertice,Vertice,قمة
+WearingSurfaceType,WearingSurfaceType,نوع البلاطة السطحية
+WearingSurfaceTypeID,WearingSurfaceTypeID,رقم نوع البلاطة السطحية
+WebSite,WebSite,الموقع الإلكتروني
+WeightCost,Weight Cost,وزن التكلفة
+WeightImportance,Weight Importance,وزن الأهمية
+Width,Width,عرض
+WorkQuality,Work Quality,جودة العمل
+Xbl,Xbl,
+Xur,Xur,
+Ybl,Ybl,
+YearBuilt,Year Built,سنة الإنشاء
+YearReconstructed,Year Reconstructed,سنة إعادة الإنشاء
+YFADT,YFADT,
+Yur,Yur,
+ZipCode,ZipCode,الرمز البريدي
+FullScreen,Full Screen,النافذة  بالكامل
+NormalSize,Normal Size,الحجم الطبيعي
+Yes,Yes,نعم
+No,No,لا
+YesNo,Yes/No,نعم/لا
+EasternProvinceMunicipality,Eastern Province Municipality,امانة المنطقة الشرقية
+Manager,Manager,المدير
+BridgeManagerName,Bridge Management Maintenance Dept,قسم إدارة صيانة الكباري
+Consultant,Consultant,الإستشاري
+Contractor,Contractor,المتعهد
+NotApplicable,N/A,ڠير محدد
+NasirBinHazaa,Nasir Bin Hazaa,ناصر بن هزاع
+InspectionAgency,Inspection Agency,وكالة الفحص و التفتيش
+IKKInspectionDivision,IKK INSPECTION DIVISION,مجموعة شركات عصام خيري قبانى/ادارة حلول البنى التحتية
+SofwareDeveloper,Sofware Developer,مطوِر نظام إدارة الكباري
+SofwareDeveloperName,IKK (INSPECTION DIVISION) / MIROR,مجموعة شركات عصام خيري قبانى و ميرور أوفشور
+Duration,Duration,الفترة
+DurationLicense,June 2012 - May 2014,حزيران ٢٠١٢ - أيار ٢٠١٤
+NoModules,No. of Modules,عدد الوحدات
+NoAsset,Asset Groups,عدد الأصول
+NoStructure,No. of Structures (Bridges /& Underpasses),عدد المنشأت
+NoStructureUnit,No. of Structure Units,عدد الوحدات الإنشائية
+NoElement,No. of Elements,عدد العناصر
+NoAttribute,No. of Attributes,عدد الصفات
+NoDrawing,No. of Drawings,عدد الرسوم الهندسية
+NoPhotos,No. of Attached Photos,عدد الصور
+EnableGIS,GIS Enabled,إمكانية التوقيع الجغرافي
+NoReportType,No. of Report Types,عدد أنواع التقارير
+AccessLevel,Access Level,مستوى تداول المعلومات
+DeteriorationModule,Deterioration Module,نظام وحدة التدهور
+ExpertOpinion,Expert Opinion,أراء الخبراء
+TypesInspection,Types of Inspection Performed,أنواع الفحص
+Language,Language,اللغة
+EnglishArabic,English - Arabic,عربى - إنكليزى
+MonitoringDevices,Monitoring Devices,أجهزة المتابعة
+SHM,SHM,SHM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
